@@ -14,3 +14,8 @@ void PrintPersonVes(Person p)
 {
 	cout << "Вес:" << p.ves << endl;
 }
+
+void PrintPersonRost(Person p)
+{
+	cout << "рост:" << p.ves << endl;
+}
