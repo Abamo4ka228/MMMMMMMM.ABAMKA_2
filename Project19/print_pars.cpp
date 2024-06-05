@@ -9,3 +9,8 @@ void PrintPersonAge(Person p)
 {
 	cout << "Возраст:" << p.age << endl;
 }
+
+void PrintPersonVes(Person p)
+{
+	cout << "Вес:" << p.ves << endl;
+}

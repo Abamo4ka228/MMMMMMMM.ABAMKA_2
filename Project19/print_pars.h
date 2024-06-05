@@ -5,3 +5,5 @@
 void printPersonFIO(Person p);
 
 void PrintPersonAge(Person p);
+
+void PrintPersonVes(Person p);
