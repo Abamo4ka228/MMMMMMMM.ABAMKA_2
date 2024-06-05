@@ -7,4 +7,5 @@ struct Person
 	string name,secondname, surname;
 	int age;
 	double ves;
+	int rost;
 };
